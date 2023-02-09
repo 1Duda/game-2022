@@ -7,6 +7,7 @@
 ## Tecnologias usadas
 - Html
 - JavaScript
+- Css
 
 ## Desenvolvedores
 - Agata Hellen Marinho
