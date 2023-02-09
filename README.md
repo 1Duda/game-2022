@@ -1,12 +1,16 @@
-# Infoweb Turma 2022 - FLA Game
+# jogo
+- Jokenpo
 
-## Objetivo
-- Repositório dos Jogos Eletrônicos produzidos na disciplina de FLA de Infoweb Turma 2022
+## Como jogor
+- O jogador escolhe pedra, papel, ou tesoura clicando na sua escolha.
 
 ## Tecnologias
-- [Python](https://www.python.org/)
-- [pygame](https://www.pygame.org/)
+- [JavaScript](https://www.python.org/)
+- [Html](https://www.pygame.org/)
 
-## Lista de jogos produzidos
-1. FIXME
-2. FIXME
+## Desenvolvedores
+- Agata Hellen Marinho
+- Maria Eduarda de Jesus
+
+-----
+![image](https://user-images.githubusercontent.com/124935747/217956864-34e0e0c9-7eac-44ad-ad15-8cc6f1c8a462.png)
